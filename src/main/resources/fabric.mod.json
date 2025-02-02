@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "baritonechat",
+  "version": "1.0.0",
+  "name": "Baritone Chat Mod",
+  "description": "A Fabric client mod that automates Baritone commands from chat messages.",
+  "authors": ["CloveTwilight3"],
+  "contact": {
+    "homepage": "https://www.mazeymoos.com",
+    "sources": "https://github.com/CloveTwilight3/BaritoneChat"
+  },
+  "license": "Apache-2.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["org.example.baritonechat.FabricBaritoneMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "1.21.4",
+    "fabric-api": ">=0.115.1+1.21.4"
+  }
+}
