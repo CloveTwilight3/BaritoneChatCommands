@@ -1,12 +1,12 @@
 {
-  "_copyright": "Copyright (c) 2025 Mazey-Jessica Emily Twilight, Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983). Licensed under Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0",
-  "schemaVersion": 1,
-  "id": "baritonechat",
-  "version": "1.0.0",
-  "name": "Baritone Chat Mod",
-  "description": "A Fabric client mod that automates Baritone commands from chat messages.",
-  "authors": ["CloveTwilight3"],
-  "contact": {
+    "_copyright": "Copyright (c) 2025 Mazey-Jessica Emily Twilight, Copyright (c) 2025 UnifiedGaming Systems Ltd (Company Number: 16108983). Licensed under Apache-2.0: http://www.apache.org/licenses/LICENSE-2.0",
+    "schemaVersion": 1,
+    "id": "baritonechat",
+    "version": "1.0.0",
+    "name": "Baritone Chat Mod",
+    "description": "A Fabric client mod that automates Baritone commands from chat messages.",
+    "authors": ["CloveTwilight3"],
+    "contact": {
     "homepage": "https://www.mazeymoos.com",
     "sources": "https://github.com/CloveTwilight3/BaritoneChat"
   },
